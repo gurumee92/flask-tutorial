@@ -19,5 +19,5 @@ Contents
 9. Test Coverage
 10. Deploy to Production
 11. Keep Deploying
-12. Appendix 1 - Installation
+12. [Appendix 1 - Installation](./docs/ch12.md)
 13. Appendix 2 - Quickstart
