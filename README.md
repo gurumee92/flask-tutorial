@@ -8,19 +8,19 @@ FLASK TUTORIAL
 Contents
 ---------
 
-1. [Project Layout](./docs/ch01.md)
-2. Application Setup
-3. Define and Access the Database
-4. Blueprints and Views
-5. Templates
-6. Static Files
-7. Blog Blueprint
-8. Make Project Installable
-9. Test Coverage
-10. Deploy to Production
-11. Keep Deploying
-12. [Appendix 1 - Installation](./docs/ch12.md)
-13. Appendix 2 - Quickstart
+1. [Installation](./docs/ch01.md)
+2. [Project Layout](./docs/ch02.md)
+3. Application Setup
+4. Define and Access the Database
+5. Blueprints and Views
+6. Templates
+7. Static Files
+8. Blog Blueprint
+9. Make Project Installable
+10. Test Coverage
+11. Deploy to Production
+12. Keep Deploying
+13. Appendix - Quickstart
 
 
 이 튜토리얼은 "Flaskr"이라고 불리는 기본적인 블로그 애플리케이션을 만드는 것입니다. (이 애플리케이션의) 사용자들은 등록하고, 로그인할 수 있고, 포스트를 작성할 수 있으며 작성된 포스트를 수정 및 삭제를 할 수 있습니다. 당신은, 다른 컴퓨터에 애플리케이션을 패키징하고 설치할 수 있을것입니다.
@@ -31,4 +31,4 @@ Contents
 
 "Flask"는 유연합니다. 이것은 특정 프로젝트 혹은 코드 레이아웃을 사용할 것을 요구하지 않습니다. 그러나 처음 시작할때는, 좀 더 구조화된 접근법이 더 유용할 수 있습니다. 즉, 이 튜토리얼에서는 약간의 boilerplate가 필요하지만, 새로운 개발자가 겪는 많은 일반적인 함정을 피하고 확장하기 쉬운 프로젝트 구조를 이용하여 진행합니다. 당신이 조금 더 "Flask"에 대해 익숙해졌을 때, 이 구조에서 벗어나 "Flask의 유연성"의 이점을 완전히 사용할 수 있을겁니다.
 
-[Project Layout](./docs/ch01.md)에서 계속됩니다.
+[Installation](./docs/ch01.md)에서 계속됩니다.
