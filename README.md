@@ -10,7 +10,7 @@ Contents
 
 1. [Installation](./docs/ch01.md)
 2. [Project Layout](./docs/ch02.md)
-3. Application Setup
+3. [Application Setup](./docs/ch03.md)
 4. Define and Access the Database
 5. Blueprints and Views
 6. Templates
