@@ -15,7 +15,7 @@ Contents
 5. [Blueprints and Views](./docs/ch05.md)
 6. [Templates](./docs/ch06.md)
 7. Static Files
-8. Blog Blueprint
+8. [Blog Blueprint](./docs/ch08.md)
 9. Make Project Installable
 10. Test Coverage
 11. Deploy to Production
