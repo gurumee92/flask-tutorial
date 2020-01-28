@@ -13,7 +13,7 @@ Contents
 3. [Application Setup](./docs/ch03.md)
 4. [Define and Access the Database](./docs/ch04.md)
 5. [Blueprints and Views](./docs/ch05.md)
-6. Templates
+6. [Templates](./docs/ch06.md)
 7. Static Files
 8. Blog Blueprint
 9. Make Project Installable
