@@ -12,7 +12,7 @@ Contents
 2. [Project Layout](./docs/ch02.md)
 3. [Application Setup](./docs/ch03.md)
 4. [Define and Access the Database](./docs/ch04.md)
-5. Blueprints and Views
+5. [Blueprints and Views](./docs/ch05.md)
 6. Templates
 7. Static Files
 8. Blog Blueprint
