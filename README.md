@@ -20,7 +20,6 @@ Contents
 10. [Test Coverage](./docs/ch10.md)
 11. Deploy to Production
 12. [Keep Deploying](./docs/ch12.md)
-13. Appendix - Quickstart
 
 
 이 튜토리얼은 "Flaskr"이라고 불리는 기본적인 블로그 애플리케이션을 만드는 것입니다. (이 애플리케이션의) 사용자들은 등록하고, 로그인할 수 있고, 포스트를 작성할 수 있으며 작성된 포스트를 수정 및 삭제를 할 수 있습니다. 당신은, 다른 컴퓨터에 애플리케이션을 패키징하고 설치할 수 있을것입니다.
