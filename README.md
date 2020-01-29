@@ -18,7 +18,7 @@ Contents
 8. [Blog Blueprint](./docs/ch08.md)
 9. [Make Project Installable](./docs/ch09.md)
 10. [Test Coverage](./docs/ch10.md)
-11. Deploy to Production
+11. [Deploy to Production](./docs/ch11.md)
 12. [Keep Deploying](./docs/ch12.md)
 
 
