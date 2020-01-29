@@ -27,7 +27,8 @@ def register():
         
         if error is None:
             db.execute(
-                'INSERT INTO user (username password) VALUES (?, ?)', (username, generate_password_hash(password))
+                'INSERT INTO user (username, password) VALUES (?, ?)', 
+                (username, generate_password_hash(password),)
             )
             db.commit()
             return redirect(url_for('auth.login'))
@@ -82,13 +83,11 @@ def logout():
 
 
 def login_required(view):
-
     @functools.wraps(view)
     def wrapped_view(**kwargs):
         if g.user is None:
             return redirect(url_for('auth.login'))
 
-        return view(kwargs)
-    
-    return wrapped_view
+        return view(**kwargs)
 
+    return wrapped_view

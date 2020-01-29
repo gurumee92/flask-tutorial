@@ -14,8 +14,8 @@ Contents
 4. [Define and Access the Database](./docs/ch04.md)
 5. [Blueprints and Views](./docs/ch05.md)
 6. [Templates](./docs/ch06.md)
-7. Static Files
-8. Blog Blueprint
+7. [Static Files](./docs/ch07.md)
+8. [Blog Blueprint](./docs/ch08.md)
 9. Make Project Installable
 10. Test Coverage
 11. Deploy to Production
