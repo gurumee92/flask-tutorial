@@ -16,10 +16,10 @@ Contents
 6. [Templates](./docs/ch06.md)
 7. [Static Files](./docs/ch07.md)
 8. [Blog Blueprint](./docs/ch08.md)
-9. Make Project Installable
-10. Test Coverage
+9. [Make Project Installable](./docs/ch09.md)
+10. [Test Coverage](./docs/ch10.md)
 11. Deploy to Production
-12. Keep Deploying
+12. [Keep Deploying](./docs/ch12.md)
 13. Appendix - Quickstart
 
 
