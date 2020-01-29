@@ -1,6 +1,19 @@
+attrs==19.3.0
 Click==7.0
+coverage==5.0.3
 Flask==1.1.1
+-e git+https://github.com/gurumee92/flask-tutorial.git@67a5f0f557e10f131a02b3dde774a5b51d192d22#egg=flaskr
+importlib-metadata==1.5.0
 itsdangerous==1.1.0
 Jinja2==2.10.3
 MarkupSafe==1.1.1
+more-itertools==8.1.0
+packaging==20.1
+pluggy==0.13.1
+py==1.8.1
+pyparsing==2.4.6
+pytest==5.3.4
+six==1.14.0
+wcwidth==0.1.8
 Werkzeug==0.16.0
+zipp==2.1.0
